@@ -1,0 +1,10 @@
+{
+	"id": "stashpad-docs",
+	"name": "Stashpad Docs",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Create a Stashpad Doc from your notes.",
+	"author": "Stashpad",
+	"authorUrl": "https://stashpad.com",
+	"isDesktopOnly": false
+}
