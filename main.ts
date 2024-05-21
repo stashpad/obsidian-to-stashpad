@@ -9,8 +9,8 @@ export default class StashpadDocsPlugin extends Plugin {
 		});
 
 		this.addCommand({
-			id: 'share-to-stashpad-docs',
-			name: 'Share to Stashpad Docs',
+			id: 'create-doc',
+			name: 'Create doc',
 			callback: () => {
 				this.shareToStashpadDocs();
 			},
